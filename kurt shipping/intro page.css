@@ -1,0 +1,61 @@
+.FakeButton {
+    background-color: #adfcf9;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 69px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+ }
+
+.question {
+color:  #adfcf9;;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 69px 
+ }
+
+ 
+.awnser {
+    color: #ffe66d;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 50px
+     }
+
+     
+h1 {
+    color:  #adfcf9;;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 104px
+        
+     }
+     body {
+      background-color: #28242c;
+   
+      
+   }
+
+   .smol{
+    -webkit-transform:scale(0.5);
+    -moz-transform:scale(0.5);
+    -ms-transform:scale(0.5);
+    transform:scale(0.5);
+    position: relative;
+    top: 10;
+    bottom: 0;
+    width: 650;
+    left: 0;
+}
+
+.chisemo {
+  color:  #adfcf9;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 69px ;
+      border : 4px;
+   }
+  
+
